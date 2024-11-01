@@ -1,0 +1,1 @@
+{"version":3,"sources":["view.styles.css"],"names":[],"mappings":"AAAA,4BAEE,qBAAyB,CACzB,eAAgB,CAChB,WACF","file":"5.d0005858.chunk.css","sourcesContent":[".table-trc td,\n.table-trc th {\n  border: 1px solid #dddddd;\n  text-align: left;\n  padding: 8px;\n}\n"]}
